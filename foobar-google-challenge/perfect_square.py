@@ -1,6 +1,6 @@
 import math
 
-def answer(area):
+def perfect_square(area):
     # your code here
     i = area
     arr = []
@@ -11,4 +11,4 @@ def answer(area):
     return arr
 
 
-# print answer(12)
+# print perfect_square(12)
